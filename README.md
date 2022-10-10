@@ -99,3 +99,5 @@ table.
 8. Which year had the most total loans?
 9. How many books were written by Greek authors?
 10. Which books have the word “MISERY” in their title?
+
+This project was provided to me by the International Hellenic University.
